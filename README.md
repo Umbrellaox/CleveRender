@@ -42,4 +42,4 @@ A simple soft render which only uses STL
 * Alpha Blend
 * PBR material
 
-> Appreciate Zauonlok's guide, Ssloy's Tiny Render course, and the reference videos on YouTube, I really benefited a lot.
+> Appreciates for Zauonlok's guide, Ssloy's Tiny Render course, and the reference videos on YouTube, I really benefited a lot.
