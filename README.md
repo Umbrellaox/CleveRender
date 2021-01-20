@@ -19,7 +19,7 @@ A simple soft render which only uses STL
 * Alpha混合
 * PBR材质
 
->> 感谢zauonlok, ssloy的tiny render课程, 以及YouTube上的参考视频, 确实收获良多.
+> 感谢zauonlok, ssloy的tiny render课程, 以及YouTube上的参考视频, 确实收获良多.
 
 ***
 
@@ -40,4 +40,4 @@ A simple soft render which only uses STL
 * Alpha Blend
 * PBR material
 
->> Appreciate Zauonlok's guide, Ssloy's Tiny Render course, and the reference videos on YouTube, iI benefited a lot.
+> Appreciate Zauonlok's guide, Ssloy's Tiny Render course, and the reference videos on YouTube, iI benefited a lot.
