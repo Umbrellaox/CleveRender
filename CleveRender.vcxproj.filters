@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{a6d5eec4-613d-4348-8056-db5e3c2acec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="exe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="geometry">
+      <UniqueIdentifier>{a06855c1-c3e5-432b-89e5-89294fd0405a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model">
+      <UniqueIdentifier>{656e25f9-0501-4ef7-a002-de6cc9d7200b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="engine">
+      <UniqueIdentifier>{b95212c0-35a6-4575-bf19-14eab24caa89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CleveRender.cpp">
+      <Filter>exe</Filter>
+    </ClCompile>
+    <ClCompile Include="model\mesh.cpp">
+      <Filter>model</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\tgaimage.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\graphic_engine.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\ConsoleGameEngine.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\sprite.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="geometry\geometry.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry\mat3.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry\mat4.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry\matrix_transformation.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry\qualifier.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry\vec2.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry\vec3.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry\vec4.h">
+      <Filter>geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="model\mesh.h">
+      <Filter>model</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\stb_image.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\tgaimage.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\ConsoleGameEngine.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\graphic_engine.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\sprite.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
