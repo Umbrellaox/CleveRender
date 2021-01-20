@@ -2,6 +2,8 @@
 
 A simple soft render which only uses STL 
 
+![Alt Text]https://media.giphy.com/media/B4xtT2xoJrUxXndD5r/giphy.gif) 
+
 ## 目前的特性
 
 * 齐次裁剪
