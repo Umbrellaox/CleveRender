@@ -20,6 +20,7 @@ A simple soft render which only uses STL
 * Alpha测试
 * Alpha混合
 * PBR材质
+* 使用 function template 模拟 vertex shader 和 fragment shader?
 
 > 感谢zauonlok, ssloy的tiny render课程, 以及YouTube上的参考视频, 确实收获良多.
 
