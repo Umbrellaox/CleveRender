@@ -2,6 +2,8 @@
 
 A simple soft render which only uses STL 
 
+GIF链接来自外网, 如未显示请点击链接:
+https://media.giphy.com/media/B4xtT2xoJrUxXndD5r/giphy.gif
 ![CleveRender](https://media.giphy.com/media/B4xtT2xoJrUxXndD5r/giphy.gif) 
 
 ## 目前的特性
